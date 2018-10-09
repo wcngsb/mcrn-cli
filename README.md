@@ -26,6 +26,12 @@ $ mcrn init testProject
 
 ```
 
+<br /><br /><br /><br /><br /><br />
+当你看到这里，你就已经熟练掌握了mcrn-cli😂
+<br /><br />
+<hr />
+<br /> <br />
+
 ## 更强大的基础模板
 
 目录结构如下:
