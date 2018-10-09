@@ -27,7 +27,8 @@ $ mcrn init testProject
 ```
 
 <br /><br /><br /><br /><br /><br />
-当你看到这里，你就已经熟练掌握了mcrn-cli😂
+<h3 align="center">当你看到这里，你就已经熟练掌握了mcrn-cli😂</h3>
+
 <br /><br />
 <hr />
 <br /> <br />
