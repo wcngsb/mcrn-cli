@@ -40,7 +40,7 @@ $ mcrn init testProject
 
 |  | 问题| 原因| 解决方案| 
 | ------ |------|------|------|
-|1 |@sentry/cli 安装失败 |sentry-cli 官方镜像不可用| 在 init 前执行 SENTRYCLI_CDNURL=https://downloads.sentry-cdn.com/sentry-cli |
+|1 |@sentry/cli 安装失败 |sentry-cli 官方镜像不可用| 在 init 前执行 `SENTRYCLI_CDNURL=https://downloads.sentry-cdn.com/sentry-cli` |
 |2 |进入红屏找不到 server| 未设置 ip |dismiss 然后摇一摇设置 ip 选 LOCAL 保存并刷新|
 
 
