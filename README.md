@@ -216,6 +216,11 @@ import navigation from '@MCRN/navigation'
 ### 更多模块功能开发中。。。
 
 
+
+<h3 align="center"><a href="https://github.com/meicai-fe/mcrn-cli">自定义模板的使用</a></h3>
+
+
+
 如果你想使用自己的模板也可以按照模板规范新建模板并上传至npm
 
 注意:
