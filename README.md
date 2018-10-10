@@ -13,9 +13,9 @@
 
 | |环境依赖|备注|
 | ------ |------|------|
-|1 | node > 8.0 | 是 |
-|2 | Yarn | 是 |
-|3 | CocoaPods | 是 |
+|1 | node > 8.0 | 必须安装 |
+|2 | Yarn | 必须安装 |
+|3 | CocoaPods | 必须安装 |
 |4 | Xcode | 运行 iOS 项目需要 |
 |5 | gradle/Android Studio | 运行 Android 项目需要 |
 
