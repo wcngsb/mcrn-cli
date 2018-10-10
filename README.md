@@ -11,13 +11,13 @@
 
 <hr />
 
-| |环境依赖|备注|
-| ------ |------|------|
-|1 | node > 8.0 | 必须安装 |
-|2 | Yarn | 必须安装 |
-|3 | CocoaPods | 必须安装 |
-|4 | Xcode | 运行 iOS 项目需要 |
-|5 | gradle/Android Studio | 运行 Android 项目需要 |
+| |环境依赖|备注|安装文档|
+| ------ |------|------|------|
+|1 | node > 8.0 | 必须安装 | https://nodejs.org/en/download/ |
+|2 | Yarn | 必须安装 | https://yarnpkg.com/zh-Hans/docs/install#mac-stable |
+|3 | CocoaPods | 必须安装 | http://www.code4app.com/article/cocoapods-install-usage |
+|4 | Xcode | 运行 iOS 项目需要 | https://itunes.apple.com/cn/app/xcode/id497799835?mt=12 |
+|5 | gradle/Android Studio | 运行 Android 项目需要 | https://developer.android.com/studio/ |
 
 
 ## 安装(Installation)
