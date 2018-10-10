@@ -28,8 +28,9 @@ $ mcrn init testProject
 
 <br /><br /><br /><br /><br /><br />
 <h3 align="center">当你看到这里，你就已经熟练掌握了mcrn-cli😂<br/>  有任何疑问可以加群直接@bear, 我将以尽快速度提供力所能及的帮助</h3>
-
+<div align="center">
 <img align="center" width="300" height="400" src="https://raw.githubusercontent.com/meicai-fe/mcrn-cli/master/grroup.JPG" />
+</div>
 
 
 
