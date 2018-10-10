@@ -9,14 +9,16 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/meicai-fe/mcrn-cli/pulls)
 </div>
 
+<hr />
 
-|  |环境依赖|是否必须|
-| ------ |------|
-|1 | node > 8.0 |是|
-|2 | Yarn|是|
-|3 | CocoaPods |是|
-|4 | Xcode |运行 iOS 项目需要|
-|5 | gradle/Android Studio |运行 Android 项目需要|
+| |环境依赖|备注|
+| ------ |------|------|
+|1 | node > 8.0 | 是 |
+|2 | Yarn | 是 |
+|3 | CocoaPods | 是 |
+|4 | Xcode | 运行 iOS 项目需要 |
+|5 | gradle/Android Studio | 运行 Android 项目需要 |
+
 
 ## 安装(Installation)
 ```shell
@@ -33,6 +35,9 @@ $ mcrn init [工程名称]
 $ mcrn init testProject
 
 ```
+
+
+
 
 <br /><br /><br /><br /><br /><br />
 <h3 align="center">当你看到这里，你就已经熟练掌握了mcrn-cli😂<br/>  有任何疑问可以加群直接@bear, 我将以尽快速度提供力所能及的帮助</h3>
@@ -51,7 +56,6 @@ $ mcrn init testProject
 
 ## 更强大的基础模板
 
-<div align="center">
 |  |特点|
 | ------ |------|
 |1 |抹平平台差异|
@@ -60,7 +64,6 @@ $ mcrn init testProject
 |4 |逐步完善的全局组件库|
 |5 |自动页面追踪|
 |6 |更强大的 Debug 模式|
-</div>
 
 目录结构如下:
 
