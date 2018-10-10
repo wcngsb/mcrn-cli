@@ -9,7 +9,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/meicai-fe/mcrn-cli/pulls)
 </div>
 
-<div align="center">
+
 |  |环境依赖|是否必须|
 | ------ |------|
 |1 | node > 8.0 |是|
@@ -17,7 +17,6 @@
 |3 | CocoaPods |是|
 |4 | Xcode |运行 iOS 项目需要|
 |5 | gradle/Android Studio |运行 Android 项目需要|
-</div>
 
 ## 安装(Installation)
 ```shell
