@@ -5,6 +5,7 @@
     
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/meicai-fe/mcrn-cli/blob/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/mcrn-cli.svg)](https://www.npmjs.com/package/mcrn-cli)
+[![npm](https://img.shields.io/npm/dt/mcrn.svg?maxAge=60)](https://www.npmjs.com/package/mcrn)
 [![NPM downloads](http://img.shields.io/npm/dm/mcrn.svg?style=flat-square)](https://www.npmtrends.com/mcrn)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/meicai-fe/mcrn-cli/pulls)
 </div>
