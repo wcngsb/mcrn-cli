@@ -43,6 +43,7 @@ $ mcrn init testProject
 | ------ |------|------|------|
 |1 |@sentry/cli 安装失败 |sentry-cli 官方镜像不可用| 在 init 前执行 `SENTRYCLI_CDNURL=https://downloads.sentry-cdn.com/sentry-cli`<br/>  或者先执行 `yarn config set sentrycli_cdnurl https://downloads.sentry-cdn.com/sentry-cli -g` |
 |2 |进入红屏找不到 server| 未设置 ip |dismiss 然后摇一摇设置 ip 选 LOCAL 保存并刷新|
+|3 |pod install 步骤出现  gem ruby 等关键字| ruby版本过低 | 升级ruby 版本，重新安装cocoapods |
 
 
 <br /><br /><br /><br /><br /><br />
